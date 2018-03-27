@@ -5,7 +5,7 @@ html {
 body {
     margin-top: 50px;
     min-height: 100%;
-    background-color: cornsilk;
+    background-color: #fefef0;
 }
 
 .img-profile {
@@ -15,6 +15,7 @@ body {
 
 h1, h4, h4 small {
     color: rgba(122, 54, 47, 1);
+    font-weight: 500;
 }
 
 ul {
