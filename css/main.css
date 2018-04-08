@@ -5,18 +5,20 @@ html {
 body {
     margin-top: 50px;
     min-height: 100%;
-    background-image: url("assets/background.jpg");
+    background-image: url("/assets/background.jpg");
 }
 
 .img-profile {
     width: 200px;
     opacity: 0.9;
 }
+h1 {
+    font-family: fantasy;
+}
 
 h1, h4, h4 small {
     color: rgb(239, 233, 233);
     font-weight: 500;
-    font-family: fantasy;
 }
 
 ul {
